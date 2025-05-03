@@ -3,7 +3,7 @@
   <img align="right" src="https://komarev.com/ghpvc/?username=sharifanis&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
-[![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@7464a49e-1aaa-46a4-8f97-ab36b8d7c933)
+[![wakatime](https://wakatime.com/badge/user/7464a49e-1aaa-46a4-8f97-ab36b8d7c933.svg)](https://wakatime.com/@7464a49e-1aaa-46a4-8f97-ab36b8d7c933)
 
 <!-- Intro  -->
 <h3 align="center">
