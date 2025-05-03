@@ -30,7 +30,7 @@
 <p align="center"> 
   <samp>
     <br>
-    「 I am a full stack web application developer from <b>Bangladesh</b> 」
+    「 I am a full stack web developer from <b>Bangladesh</b> 」
     <br>
     <br>
   </samp>
@@ -66,7 +66,7 @@
   
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: sharifanis.dev@gmail.com<br/><br/>
+ 📧 &emsp; Reach me anytime: md.sharifanis69@gmail.com<br/><br/>
  💬 &emsp; Ask me about anything [here](https://github.com/sharifanis/sharifanis/issues)
 
 </p>
@@ -99,12 +99,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 <br/>
-
-## Top Open Source -
-[![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=sharifanis&repo=itasks&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/sharifanis/itasks)
-[![urFolio](https://github-readme-stats.vercel.app/api/pin/?username=sharifanis&repo=urfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/sharifanis/urfolio)
-[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=sharifanis&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/sharifanis/web-projects)
-[![Al Siam Readme](https://github-readme-stats.vercel.app/api/pin/?username=sharifanis&repo=sharifanis&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/sharifanis/sharifanis)
 
 <p align="left">
   <a href="https://github.com/sharifanis?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
